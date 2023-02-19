@@ -1,5 +1,4 @@
 # test pobieracz vod
-test pobieracz vod
 
 potrzebne:
  
