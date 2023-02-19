@@ -6,4 +6,4 @@ potrzebne:
  
    pip3 install requests = import requests
  
-   pip3 install re = import re
+   pip3 install regex = import re
