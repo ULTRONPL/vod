@@ -4,8 +4,6 @@ wersja 1.3 obsługuje tylko pobieranie odcinków seriali
 
 w wersji 2.0 będzie możliwość pobierania filmów
 
-\n
-
 potrzebne:
  
    python 3.9
