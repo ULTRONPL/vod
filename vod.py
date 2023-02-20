@@ -1,3 +1,4 @@
+#działa tylko na odcinki seriali jak narazie
 import requests
 import re
 while True:
