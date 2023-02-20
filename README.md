@@ -11,7 +11,7 @@ potrzebne:
    
 Po poprawnym zainstalowaniu w terminalu wpiszujemy pełen link do odcinka
 
-![obraz](https://user-images.githubusercontent.com/98317764/220185620-07c3601b-62c7-4297-ac18-256b3f7c27b8.png)
+![2](https://user-images.githubusercontent.com/98317764/220185811-8fbb4c29-94c3-498c-b2d4-a9f5ed737235.png)
 
 następnie
 
