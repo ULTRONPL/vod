@@ -1,4 +1,4 @@
-# test pobieracz vod
+# test pobieracz vod odcinków wszystkich seriali
 
 potrzebne:
  
