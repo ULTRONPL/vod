@@ -20,3 +20,5 @@ gdy to już zrobimy kopiujemy link
 Jeśli wprowadzono poprawny link to powinno wyświetlić się
 
 ![3](https://user-images.githubusercontent.com/98317764/220185132-320d905c-79f7-4ebd-af93-5c9f17566710.png)
+
+zaznaczamy i kopiujemy link a następnie wklejamy do przeglądarki
