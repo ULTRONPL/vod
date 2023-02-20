@@ -9,7 +9,11 @@ potrzebne:
    pip3 install regex = import re
    
    
-Po zainstalowaniu w terminalu wpiszujemy pełen link
+Po poprawnym zainstalowaniu w terminalu wpiszujemy pełen link do odcinka
+
+![obraz](https://user-images.githubusercontent.com/98317764/220185620-07c3601b-62c7-4297-ac18-256b3f7c27b8.png)
+
+następnie
 
 ![2](https://user-images.githubusercontent.com/98317764/220185160-cee34107-831e-4f01-9b0f-32b6acdd2cc4.png)
 
