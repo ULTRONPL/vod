@@ -1,4 +1,4 @@
-# v1.3 test pobieracz vod - wszystkich odcinków różnych seriali
+# v1.3 test - pobieracz vod - wszystkich odcinków różnych seriali
 
 versja 1.3 obsługuje tylko pobieranie odcinków seriali
 w versji 2.0 będzie dodana możliwość pobierania filmów
