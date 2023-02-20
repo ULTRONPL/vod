@@ -6,11 +6,11 @@ w wersji 2.0 będzie możliwość pobierania filmów
 
 potrzebne:
  
-   -python 3.9
+   - python 3.9
  
-   -pip3 install requests = import requests
+   - pip3 install requests = import requests
  
-   -pip3 install regex = import re
+   - pip3 install regex = import re
    
    
 Po poprawnym zainstalowaniu klikamy w więcej informacji a następnie w wybrany odcinek
