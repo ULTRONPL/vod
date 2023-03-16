@@ -19,6 +19,8 @@ gdy to już zrobimy kopiujemy link
 
 Jeśli wprowadzono poprawny link to powinno wyświetlić się
 
-![obraz](https://user-images.githubusercontent.com/98317764/220190573-246a0680-b7c7-4117-81c6-17706f48d3ac.png)
+
+![0](https://user-images.githubusercontent.com/98317764/225727885-82e14bd7-1ed7-426a-8551-41e7e4fa1018.png)
+
 
 zaznaczamy i kopiujemy link a następnie wklejamy go do przeglądarki
