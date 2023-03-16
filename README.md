@@ -20,7 +20,7 @@ gdy to już zrobimy kopiujemy link
 Jeśli wprowadzono poprawny link to powinno wyświetlić się
 
 
-![0](https://user-images.githubusercontent.com/98317764/225727885-82e14bd7-1ed7-426a-8551-41e7e4fa1018.png)
+![obraz](https://user-images.githubusercontent.com/98317764/225728908-9411e1fb-a730-4a78-9734-b3a1a217296a.png)
 
 
 zaznaczamy i kopiujemy link a następnie wklejamy go do przeglądarki
