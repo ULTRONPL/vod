@@ -6,9 +6,9 @@ MEDOTA ŁATWA - GOTOWE DO UŻYCIA BEZ INSTALOWANIA PYTHON
 
 - W plikach można znaleść gotowy skompliowany .exe, wystarczy tylko wklejić kink a program zrobi resztę
 
-- Po poprawnym zainstalowaniu klikamy w więcej informacji a następnie w wybrany odcinek
+-- Po poprawnym zainstalowaniu klikamy w więcej informacji a następnie w wybrany odcinek
 
-- ![4](https://user-images.githubusercontent.com/98317764/220185958-a0b2a2b1-f1b2-4ec3-acbe-6ad6c5a6e82c.png)
+- - ![4](https://user-images.githubusercontent.com/98317764/220185958-a0b2a2b1-f1b2-4ec3-acbe-6ad6c5a6e82c.png)
 
 - gdy to już zrobimy kopiujemy link
 
