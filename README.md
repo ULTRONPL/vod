@@ -2,7 +2,7 @@ Wersja 3.0 została dodana możliwośc pobierania filmów oraz odcinków seriali
 
 - Można pobrać skrypt i skompliować go samemu do .exe
 
-MEDOTA ŁATWA - GOTOWE DO UŻYCIA BEZ INSTALOWANIA PYTHON
+MEDOTA ŁATWA - GOTOWE DO UŻYCIA
 
 - W plikach można znaleść gotowy skompliowany .exe, wystarczy tylko uruchomić vod.exe i wklejić link a program zrobi resztę
 
