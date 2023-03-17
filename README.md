@@ -27,4 +27,4 @@ MEDODA Z INSTALOWANIEM PYTHON
   - python 3.9
  
   - pip install requests = import requests
-  - reszta instrukcji działa tak samo
+* reszta instrukcji działa tak samo
