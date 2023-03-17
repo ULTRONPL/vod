@@ -6,11 +6,11 @@ MEDOTA ŁATWA - GOTOWE DO UŻYCIA BEZ INSTALOWANIA PYTHON
 
 - W plikach można znaleść gotowy skompliowany .exe, wystarczy tylko wklejić kink a program zrobi resztę
 
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 MEDODA Z INSTALOWANIEM PYTHON
 
