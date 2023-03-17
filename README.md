@@ -1,5 +1,9 @@
 Wersja 2.0 została dodana możliwośc pobierania filmów oraz odcinków seriali
 
+Można pobrać skrypt i skompliować go samemu do .exe
+
+W plikach można znaleść gotowy skompliowany .exe, wystarczy tylko wklejić kink a program zrobi resztę
+
 potrzebne:
  
    - python 3.9
