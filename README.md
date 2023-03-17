@@ -1,4 +1,4 @@
-Wersja 2.0 została dodana możliwośc pobierania filmów oraz odcinków seriali
+Wersja 3.0 została dodana możliwośc pobierania filmów oraz odcinków seriali
 
 - Można pobrać skrypt i skompliować go samemu do .exe
 
