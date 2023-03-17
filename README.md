@@ -1,8 +1,8 @@
 Wersja 2.0 została dodana możliwośc pobierania filmów oraz odcinków seriali
 
-MEDOTA ŁATWA - GOTOWE DO UŻYCIA BEZ INSTALOWANIA PYTHON
-
 - Można pobrać skrypt i skompliować go samemu do .exe
+
+MEDOTA ŁATWA - GOTOWE DO UŻYCIA BEZ INSTALOWANIA PYTHON
 
 - W plikach można znaleść gotowy skompliowany .exe, wystarczy tylko uruchomić vod.exe i wklejić link a program zrobi resztę
 
@@ -27,3 +27,4 @@ MEDODA Z INSTALOWANIEM PYTHON
   - python 3.9
  
   - pip install requests = import requests
+- - reszta instrukcji działa tak samo
