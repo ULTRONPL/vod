@@ -7,7 +7,7 @@ Wersja 3.0 została dodana możliwośc pobierania filmów oraz odcinków seriali
 
 MEDOTA ŁATWA - GOTOWE DO UŻYCIA
 
-- W plikach można znaleść gotowy skompliowany .exe, wystarczy tylko uruchomić vod.exe i wklejić link a program zrobi resztę
+- W plikach można znaleść gotowy skompliowany .exe, wystarczy tylko uruchomić "vod.exe" i wklejić link a program zrobi resztę
 
 - - zaznaczamy link
 - - ![2](https://user-images.githubusercontent.com/98317764/220185160-cee34107-831e-4f01-9b0f-32b6acdd2cc4.png)
